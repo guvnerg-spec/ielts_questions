@@ -1,0 +1,48 @@
+{
+  "part1": [
+    { "question": "What is your favorite hobby and why?" },
+    { "question": "Do you prefer reading books or watching movies?" },
+    { "question": "What is your hometown like?" },
+    { "question": "Do you like to travel? Why or why not?" },
+    { "question": "Can you describe the place where you live?" },
+    { "question": "Do you prefer to spend your free time indoors or outdoors? Why?" },
+    { "question": "Do you enjoy cooking? Why or why not?" },
+    { "question": "Do you prefer reading books or watching movies? Why?" },
+    { "question": "Do you like to visit museums? Why or why not?" },
+    { "question": "Have you ever attended a live music concert? How was the experience?" },
+    { "question": "Do you think people in your country have enough time for leisure activities? Why or why not?" },
+    { "question": "What kind of TV programs do you enjoy watching?" },
+    { "question": "How do you usually celebrate your birthday?" },
+    { "question": "What kind of weather do you like the most?" }
+  ],
+  "part2": [
+    { "question": "Describe a special meal you have had.\n\nWhere you had the meal,\nWho you were with,\nWhat you ate,\nWhy it was special" },
+    { "question": "Describe a memorable trip you have taken.\n\nWhere you went,\nWho you went with,\nWhat you did there,\nWhy it was memorable" },
+    { "question": "Describe a hobby you enjoy.\n\nWhat the hobby is,\nHow you started doing it,\nWhy you enjoy it,\nHow it benefits you" },
+    { "question": "Describe a person who has influenced you the most.\n\nWho the person is,\nHow you know this person,\nHow they have influenced you,\nWhy this person is important to you" },
+    { "question": "Describe a film you watched recently.\n\nWhat the film is,\nWhat it is about,\nWhy you chose to watch it,\nHow you felt about it" },
+    { "question": "Describe a time when you helped someone.\n\nWho you helped,\nHow you helped them,\nWhy they needed help,\nHow helping them made you feel" },
+    { "question": "Describe a book you recently read.\n\nWhat the book is about,\nWhy you chose to read it,\nWhat you learned from it,\nHow you felt about it" },
+    { "question": "Describe an interesting tradition in your country.\n\nWhat the tradition is,\nHow it is celebrated,\nWhy it is important,\nHow you feel about it" },
+    { "question": "Describe a piece of technology that you find very useful.\n\nWhat the technology is,\nHow you use it,\nWhy you find it useful,\nHow it has changed your life" },
+    { "question": "Describe a skill you have learned that you think is very useful.\n\nWhat the skill is,\nHow you learned it,\nWhy you think it is useful,\nHow it has helped you" },
+    { "question": "Describe a memorable event you attended.\n\nWhat the event was,\nWhere and when it took place,\nWho you were with,\nWhy it was memorable" }
+  ],
+  "part3": [
+    { "question": "How important is travel in personal development?" },
+    { "question": "What impact does technology have on communication?" },
+    { "question": "Do you think people today are more or less interested in arts?" },
+    { "question": "In what ways does tourism impact the local economy and community?" },
+    { "question": "How important is it for children to learn art in school?" },
+    { "question": "How has education changed over recent years?" },
+    { "question": "How do you think globalization has affected cultural traditions in your country?" },
+    { "question": "In what ways can technology help people communicate more effectively?" },
+    { "question": "Why do you think some people prefer living in big cities while others prefer the countryside?" },
+    { "question": "How do you think advertising influences people's decisions?" },
+    { "question": "What are some of the main environmental problems your country is facing today?" },
+    { "question": "Do you believe that working from home is better for employees? Why or why not?" },
+    { "question": "How has the concept of family changed in recent years in your country?" },
+    { "question": "Do you think the way people travel today is different compared to the past? How?" },
+    { "question": "What are some advantages and disadvantages of shopping online?" }
+  ]
+}
